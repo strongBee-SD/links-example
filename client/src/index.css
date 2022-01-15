@@ -1,0 +1,10 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.input-field {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.input-field > label {
+  left: 1rem;
+}

@@ -1,6 +1,6 @@
 {
-  "port": 5000,
+  "port": 80,
   "jwtSecret": "strongBee learning backend",
   "mongoUri": "mongodb+srv://strongBee:1234qwer@cluster0.nx7cx.mongodb.net/app?retryWrites=true&w=majority",
-  "baseUrl": "http://localHost:5000"
+  "baseUrl": "https://links-example.netlify.app"
 }

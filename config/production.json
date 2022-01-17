@@ -2,5 +2,5 @@
   "port": 80,
   "jwtSecret": "strongBee learning backend",
   "mongoUri": "mongodb+srv://strongBee:1234qwer@cluster0.nx7cx.mongodb.net/app?retryWrites=true&w=majority",
-  "baseUrl": "https://links-example.netlify.app"
+  "baseUrl": "https://links-data-save.herokuapp.com/"
 }
